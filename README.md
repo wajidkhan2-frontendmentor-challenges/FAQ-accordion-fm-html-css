@@ -9,7 +9,7 @@ desktop view\
 ![](./Screenshots/desktop.png)
 
 # Demo
-    [FireShot](https://getfireshot.com/)
+[FireShot](https://wajidkhan2-frontendmentor-challenges.github.io/FAQ-accordion-fm-html-css/)
 
 ### Built with
 - Mobile-first workflow
